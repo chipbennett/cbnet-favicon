@@ -1,16 +1,21 @@
 === cbnet Favicon ===
 Contributors: chipbennett
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QP3N9HUSYJPK6
-Tags: cbnet, favicon, images, plugin, generator, picture, icon, admin, maxblogpress
-Requires at least: 2.9
-Tested up to: 3.0.3
-Stable tag: 2.1.1
+Tags: cbnet, favicon
+Requires at least: 3.0
+Tested up to: 3.5
+Stable tag: 3.0
 
-Easily add favicon to your blog without editing any wordpress files. Activation/subscription-free fork of MaxBlogPress Favicon plugin
+Add a Favicon to your site. No bells or whistles; simply upload a (ICO, PNG, or GIF) file.
 
 == Description ==
 
-When you browse the Internet looking for a list of blogs, you might have noticed you are often drawn to a particular site because they stand out from the rest. Often webmasters and blog owners pay a lot of money to have their listing appear more obvious so that they attract a higher click through rate.
+Add a Favicon to your site. No bells or whistles; simply upload a (ICO, PNG, or GIF) file.
+
+Note: Plugin settings can be configured via Dashboard -> Settings -> Favicon.
+
+Note 2: I sincerely hope that this Plugin will be made obsolete, through the incorporation of the Favicon feature into core. In the meantime, this 
+Plugin allows you to keep your Favicon setting separate from any Theme settings, so that you don't lose your Favicon if you switch Themes.
 
 == Installation ==
 
@@ -28,18 +33,18 @@ Installation using "Add New Plugin"
 Activiation and Use
 
 1. Activate the plugin through the 'Plugins' menu in WordPress
-2. From your Admin UI (Dashboard), use the menu to select Options -> cbnet Favicon 
+2. From your Admin UI (Dashboard), use the menu to select Options -> Favicon 
 3. Configure settings, and save
 
 == Frequently Asked Questions ==
 
 = How do I choose a Favicon? =
 
-Choose one of the included icons, or upload one of your own.
+Just upload a file of your own. Note that Favicons file type must be one of ICO, PNG, JPEG, or GIF.
 
 = I use Internet Explorer. Why don't the icons appear on the options page? Are my options saved? =
 
-Internet Explorer doesn't render .ico files in HTML files. If you see a file path in the **Favorite Icon** field at the top of the page, then your settings are saved.
+Internet Explorer doesn't render .ico files in HTML files.
 
 == Screenshots ==
 
@@ -48,6 +53,15 @@ Screenshots coming soon.
 
 == Changelog ==
 
+= 3.0 =
+* Major Revision
+* Plugin completely rewritten:
+** Settings API support
+** Implement settings via wp_head
+** Made Plugin parameters filterable
+** Made Plugin translation-ready
+** Removed all cruft code
+* WARNING: Old settings will not be retained
 = 2.1.1 =
 * Readme.txt update
 * Updated Donate Link in readme.txt
@@ -58,6 +72,8 @@ Screenshots coming soon.
 
 == Upgrade Notice ==
 
+= 3.0 =
+Major update. Plugin completely re-written. WARNING: Old settings will not be retained.
 = 2.1.1 =
 Readme.txt update. Updated Donate Line in readme.txt
 = 2.1 =

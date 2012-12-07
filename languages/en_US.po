@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cbnet Favicon\n"
+"POT-Creation-Date: 2012-12-07 14:27-0500\n"
+"PO-Revision-Date: 2012-12-07 14:27-0500\n"
+"Last-Translator: Chip Bennett <chip@chipbennett.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\wbennett\\My Documents"
+"\\Dev\\GitHub\\cbnet-favicon\\languages\n"
+"X-Poedit-SearchPath-1: C:\\Documents and Settings\\wbennett\\My Documents"
+"\\Dev\\GitHub\\cbnet-favicon\n"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:93
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:117
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:176
+msgid "Favicon"
+msgstr "Favicon"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:102
+msgid "Upload an image to use as the site Favicon."
+msgstr "Upload an image to use as the site Favicon."
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:103
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:152
+msgid "Favicon file type must be one of ICO, PNG, JPEG, or GIF."
+msgstr "Favicon file type must be one of ICO, PNG, JPEG, or GIF."
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:104
+msgid "Use supported images only."
+msgstr "Use supported images only."
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:105
+msgid "Image will be used as-is."
+msgstr "Image will be used as-is."
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:173
+msgid "cbnet Favicon Options"
+msgstr "cbnet Favicon Options"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:212
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:213
+msgid "Reset Defaults"
+msgstr "Reset Defaults"
