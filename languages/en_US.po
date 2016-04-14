@@ -1,60 +1,119 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cbnet Favicon\n"
-"POT-Creation-Date: 2012-12-07 14:27-0500\n"
-"PO-Revision-Date: 2012-12-07 14:27-0500\n"
+"POT-Creation-Date: 2016-04-14 13:58-0400\n"
+"PO-Revision-Date: 2016-04-14 13:58-0400\n"
 "Last-Translator: Chip Bennett <chip@chipbennett.net>\n"
 "Language-Team: \n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.7\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: C:\\Documents and Settings\\wbennett\\My Documents"
-"\\Dev\\GitHub\\cbnet-favicon\\languages\n"
-"X-Poedit-SearchPath-1: C:\\Documents and Settings\\wbennett\\My Documents"
-"\\Dev\\GitHub\\cbnet-favicon\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:93
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:117
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:176
+#: cbnet-favicon.php:82 cbnet-favicon.php:128 cbnet-favicon.php:173
+msgid ""
+"WordPress 4.3 added core support for favicons, via the Site Icon feature."
+msgstr ""
+"WordPress 4.3 added core support for favicons, via the Site Icon feature."
+
+#: cbnet-favicon.php:83
+msgid ""
+"Since you have not yet configured a site icon using the cbnet Favicon "
+"Plugin, you will need to use the core feature, rather than the Plugin, to "
+"configure your favicon."
+msgstr ""
+"Since you have not yet configured a site icon using the cbnet Favicon "
+"Plugin, you will need to use the core feature, rather than the Plugin, to "
+"configure your favicon."
+
+#: cbnet-favicon.php:86 cbnet-favicon.php:134
+msgid "Configure the core Site Icon feature via:"
+msgstr "Configure the core Site Icon feature via:"
+
+#: cbnet-favicon.php:91 cbnet-favicon.php:139
+msgid "Appearance"
+msgstr "Appearance"
+
+#: cbnet-favicon.php:92 cbnet-favicon.php:140
+msgid "Customize"
+msgstr "Customize"
+
+#: cbnet-favicon.php:93 cbnet-favicon.php:141
+msgid "Site Identity"
+msgstr "Site Identity"
+
+#: cbnet-favicon.php:94 cbnet-favicon.php:142
+msgid "Site Icon"
+msgstr "Site Icon"
+
+#: cbnet-favicon.php:95 cbnet-favicon.php:143
+msgid "->"
+msgstr "->"
+
+#: cbnet-favicon.php:129
+msgid ""
+"Since you have configured a site icon using the cbnet Favicon Plugin, the "
+"image you used is stored in your Media Library."
+msgstr ""
+"Since you have configured a site icon using the cbnet Favicon Plugin, the "
+"image you used is stored in your Media Library."
+
+#: cbnet-favicon.php:130
+msgid "You can use the same image to configure the core Site Icon feature."
+msgstr "You can use the same image to configure the core Site Icon feature."
+
+#: cbnet-favicon.php:131
+msgid ""
+"Once you configure the core Site Icon feature, the cbnet Favicon display "
+"will be automatically disabled."
+msgstr ""
+"Once you configure the core Site Icon feature, the cbnet Favicon display "
+"will be automatically disabled."
+
+#: cbnet-favicon.php:174
+msgid "Please update to the latest version of WordPress."
+msgstr "Please update to the latest version of WordPress."
+
+#: cbnet-favicon.php:175
+msgid ""
+"This Plugin will continue to function, but or security reasons, this Plugin "
+"is not supported for outdated versions of WordPress."
+msgstr ""
+"This Plugin will continue to function, but or security reasons, this Plugin "
+"is not supported for outdated versions of WordPress."
+
+#: cbnet-favicon.php:203 cbnet-favicon.php:227 cbnet-favicon.php:286
 msgid "Favicon"
 msgstr "Favicon"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:102
+#: cbnet-favicon.php:212
 msgid "Upload an image to use as the site Favicon."
 msgstr "Upload an image to use as the site Favicon."
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:103
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:152
+#: cbnet-favicon.php:213 cbnet-favicon.php:262
 msgid "Favicon file type must be one of ICO, PNG, JPEG, or GIF."
 msgstr "Favicon file type must be one of ICO, PNG, JPEG, or GIF."
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:104
+#: cbnet-favicon.php:214
 msgid "Use supported images only."
 msgstr "Use supported images only."
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:105
+#: cbnet-favicon.php:215
 msgid "Image will be used as-is."
 msgstr "Image will be used as-is."
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:173
+#: cbnet-favicon.php:283
 msgid "cbnet Favicon Options"
 msgstr "cbnet Favicon Options"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:212
+#: cbnet-favicon.php:322
 msgid "Save Settings"
 msgstr "Save Settings"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-favicon/cbnet-favicon.php:213
+#: cbnet-favicon.php:323
 msgid "Reset Defaults"
 msgstr "Reset Defaults"

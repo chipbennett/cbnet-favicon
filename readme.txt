@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: cbnet, favicon
 Requires at least: 3.0
 Tested up to: 4.5
-Stable tag: 3.0
+Stable tag: 3.1
 
 Add a Favicon to your site. No bells or whistles; simply upload a (ICO, PNG, or GIF) file.
 
@@ -53,6 +53,13 @@ Screenshots coming soon.
 
 == Changelog ==
 
+= 3.1 =
+* Minor Revision
+* Integrate into core Site Icon feature
+** If WordPress 4.3 or greater, requires favicon configuration via core Site Icon feature.
+** Images previously configured as favicons using the Plugin are available in the Media Library, and can be used for the core Site Icon feature
+** Plugin will continue to work, but is not supported, in versions of WordPress older than 4.3.
+
 = 3.0 =
 * Major Revision
 * Plugin completely rewritten:
@@ -72,6 +79,8 @@ Screenshots coming soon.
 
 == Upgrade Notice ==
 
+= 3.1 =
+Minor update. Core Site Icon feature-aware.
 = 3.0 =
 Major update. Plugin completely re-written. WARNING: Old settings will not be retained.
 = 2.1.1 =
