@@ -3,19 +3,19 @@ Contributors: chipbennett
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QP3N9HUSYJPK6
 Tags: cbnet, favicon
 Requires at least: 3.0
-Tested up to: 3.5
+Tested up to: 4.5
 Stable tag: 3.0
 
 Add a Favicon to your site. No bells or whistles; simply upload a (ICO, PNG, or GIF) file.
 
 == Description ==
 
+As of WordPress 4.3, this Plugin is no longer needed. The next update will integrate the Plugin into the core site icon feature, to allow for graceful 
+retirement of the Plugin.
+
 Add a Favicon to your site. No bells or whistles; simply upload a (ICO, PNG, or GIF) file.
 
 Note: Plugin settings can be configured via Dashboard -> Settings -> Favicon.
-
-Note 2: I sincerely hope that this Plugin will be made obsolete, through the incorporation of the Favicon feature into core. In the meantime, this 
-Plugin allows you to keep your Favicon setting separate from any Theme settings, so that you don't lose your Favicon if you switch Themes.
 
 == Installation ==
 
